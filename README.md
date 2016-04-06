@@ -11,7 +11,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 3. Focus on personal projects
 4. Learn more about Open Source
 
-# March 28, 2016
+# April 4, 2016
 
 ### This Week's Focus: Task runners
 
