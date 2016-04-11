@@ -18,11 +18,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read <a href="https://developers.google.com/web/fundamentals/">web fundamentals</a> by Google
 - [ ] Use stylus on my github pages
 - [ ] Do a course on <a href="https://www.skillshare.com/classes/design/Calligraphy-I-Writing-in-Classic-Modern-Script/581900124?via=search-layout-grid">skillshare</a>
+- [ ] Use <a href="http://julian.com/research/velocity/">Velocity js</a>
 
 ### Things I'll Do This Month: April 2016
 - [ ] Finish reading Hooked
 - [ ] Build something with <a href="http://akdubya.github.io/dustjs/">dustjs</a>
 - [ ] Write a blog post
+- [ ] Learn more about <a href="http://greensock.com/gsap">Gsap</a>
 
 ### Backlog: Code Things I Want to Do/Play With
 - [ ] Learn more about <a href="http://coffeescript.org/">Coffeescript</a>
