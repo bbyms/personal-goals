@@ -25,6 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Build something with <a href="http://akdubya.github.io/dustjs/">dustjs</a>
 - [ ] Write a blog post
 - [ ] Learn more about <a href="http://greensock.com/gsap">Gsap</a>
+- [ ] Learn more about <a href="https://w3c.github.io/web-animations/">Web animation API</a>
 
 ### Backlog: Code Things I Want to Do/Play With
 - [ ] Learn more about <a href="http://coffeescript.org/">Coffeescript</a>
